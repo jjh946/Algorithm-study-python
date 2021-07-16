@@ -2,4 +2,4 @@
 👩‍💻알고리즘 공부! - 파이썬 👨‍💻
 
 
-https://img.shields.io/badge/-steps-blue  #CodeUp
+<img src="https://img.shields.io/badge/steps-blue?style=flat-square&logo=simpleicons에서_아이콘이름&logoColor=white"/></a>&nbsp   #CodeUp
